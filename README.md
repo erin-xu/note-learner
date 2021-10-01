@@ -1,4 +1,4 @@
-# note-learner
+# Note Learner
 
 An iOS app built using Xcode that teaches how to read music in the treble and bass clefs. The app includes 3 self-created lessons (Staff, Treble Clef, Bass Clef) and practice identifying notes from the treble, bass, or both staves. 
 
