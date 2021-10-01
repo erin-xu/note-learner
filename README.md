@@ -2,7 +2,7 @@
 
 An iOS app built using Xcode that teaches how to read music in the treble and bass clefs. The app includes 3 self-created lessons (Staff, Treble Clef, Bass Clef) and practice identifying notes from the treble, bass, or both staves. 
 
-The source code can be found in the music1 folder.
+The source code can be found in the `music1` folder.
 
 The screenshots below demonstrate the user interface and functionality of the app.
 
