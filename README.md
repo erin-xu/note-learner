@@ -9,7 +9,9 @@ The screenshots below demonstrate the user interface and functionality of the ap
 
 Tapping the "Learn" option, the user can choose from any of the 3 lessons provided. Each lesson consists of 4-6 pages that can be accessed by swiping horizontally. A few of the pages are shown below.
 
-<img width="320" alt="Screen Shot 2021-10-01 at 11 41 39 AM" src="https://user-images.githubusercontent.com/82056699/135649972-fb95178e-f454-4fbd-bb6f-8cc131cf2734.png"> <img width="322" alt="Screen Shot 2021-10-01 at 11 50 27 AM" src="https://user-images.githubusercontent.com/82056699/135650185-0edb39a8-e21a-4f6b-9700-46943aeeaca5.png"> <img width="321" alt="Screen Shot 2021-10-01 at 11 50 54 AM" src="https://user-images.githubusercontent.com/82056699/135650248-d7f1554c-2c76-48db-8c81-6fe1fd259a2f.png"> <img width="321" alt="Screen Shot 2021-10-01 at 11 51 57 AM" src="https://user-images.githubusercontent.com/82056699/135650414-cc2b3078-9e70-49a3-bf47-ddc229befa1c.png">
+<img width="320" alt="Screen Shot 2021-10-01 at 11 41 39 AM" src="https://user-images.githubusercontent.com/82056699/135649972-fb95178e-f454-4fbd-bb6f-8cc131cf2734.png"> <img width="322" alt="Screen Shot 2021-10-01 at 11 50 27 AM" src="https://user-images.githubusercontent.com/82056699/135650185-0edb39a8-e21a-4f6b-9700-46943aeeaca5.png"> 
+
+<img width="321" alt="Screen Shot 2021-10-01 at 11 50 54 AM" src="https://user-images.githubusercontent.com/82056699/135650248-d7f1554c-2c76-48db-8c81-6fe1fd259a2f.png"> <img width="321" alt="Screen Shot 2021-10-01 at 11 51 57 AM" src="https://user-images.githubusercontent.com/82056699/135650414-cc2b3078-9e70-49a3-bf47-ddc229befa1c.png">
 
 Tapping the "Practice" option from the home screen, the user can choose to practice with the treble staff, bass staff, or both. The score keeps track of the number of correctly answered questions. 
 
