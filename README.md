@@ -6,19 +6,19 @@ The source code can be found in the `music1` folder.
 
 The screenshots below demonstrate the user interface and functionality of the app.
 
-<img width="320" alt="Screen Shot 2021-10-01 at 11 41 26 AM" src="https://user-images.githubusercontent.com/82056699/135649143-1572cd9a-ecdd-4f0d-b407-dd431a2af603.png">
+<img height="700" alt="Screen Shot 2022-06-05 at 5 21 04 PM" src="https://user-images.githubusercontent.com/82056699/172073037-f032f0da-32de-4f71-bb56-4284f1eee4eb.png">
 
 Tapping the "Learn" option, the user can choose from any of the 3 lessons provided. Each lesson consists of 4-6 pages that can be accessed by swiping horizontally. A few of the pages are shown below.
 
-<img width="320" alt="Screen Shot 2021-10-01 at 11 41 39 AM" src="https://user-images.githubusercontent.com/82056699/135649972-fb95178e-f454-4fbd-bb6f-8cc131cf2734.png"> <img width="322" alt="Screen Shot 2021-10-01 at 11 50 27 AM" src="https://user-images.githubusercontent.com/82056699/135650185-0edb39a8-e21a-4f6b-9700-46943aeeaca5.png"> 
+ <img height="700" alt="Screen Shot 2022-06-05 at 5 21 14 PM" src="https://user-images.githubusercontent.com/82056699/172073049-0be9d3bf-855e-4361-9bb3-12d37033739f.png">  <img height="700" alt="Screen Shot 2022-06-05 at 5 21 23 PM" src="https://user-images.githubusercontent.com/82056699/172073053-3ec5fb36-6983-4bd6-88a0-92ed7371ff0c.png">
 
-<img width="321" alt="Screen Shot 2021-10-01 at 11 50 54 AM" src="https://user-images.githubusercontent.com/82056699/135650248-d7f1554c-2c76-48db-8c81-6fe1fd259a2f.png"> <img width="321" alt="Screen Shot 2021-10-01 at 11 51 57 AM" src="https://user-images.githubusercontent.com/82056699/135650414-cc2b3078-9e70-49a3-bf47-ddc229befa1c.png">
+<img height="700" alt="Screen Shot 2022-06-05 at 5 21 41 PM" src="https://user-images.githubusercontent.com/82056699/172073073-004f043f-698f-4d78-b4a0-94aa2486bac8.png">  <img height="700" alt="Screen Shot 2022-06-05 at 5 21 45 PM" src="https://user-images.githubusercontent.com/82056699/172073082-7338e2ea-e371-473d-b08c-6cba3e760802.png">
 
 Tapping the "Practice" option from the home screen, the user can choose to practice with the treble staff, bass staff, or both. The score keeps track of the number of correctly answered questions. 
 
-<img width="319" alt="Screen Shot 2021-10-01 at 11 53 19 AM" src="https://user-images.githubusercontent.com/82056699/135650597-bd38448f-b316-45cc-ab2c-73586e04fd02.png"><img width="321" alt="Screen Shot 2021-10-01 at 11 52 26 AM" src="https://user-images.githubusercontent.com/82056699/135650475-fd304965-1655-4624-941e-ff6e78e4c4d9.png">
+<img height="700" alt="Screen Shot 2022-06-05 at 5 22 08 PM" src="https://user-images.githubusercontent.com/82056699/172073106-3a019439-349c-4bb6-b658-044d121ee37e.png"> <img height="700" alt="Screen Shot 2022-06-05 at 5 22 17 PM" src="https://user-images.githubusercontent.com/82056699/172073108-e1b485ef-cf5e-4bfd-9b87-df68b765c767.png">
 
-<img width="321" alt="Screen Shot 2021-10-01 at 11 52 46 AM" src="https://user-images.githubusercontent.com/82056699/135650524-7ace5cea-db2c-4474-81ce-6c22f106cd9c.png"><img width="322" alt="Screen Shot 2021-10-01 at 12 02 19 PM" src="https://user-images.githubusercontent.com/82056699/135652011-3446f1cc-5462-4af0-82c1-eebc710ae412.png">
+<img height="700" alt="Screen Shot 2022-06-05 at 5 22 20 PM" src="https://user-images.githubusercontent.com/82056699/172073111-7f164f74-2c5f-4bd0-b923-1b0e8e502c80.png">  <img height="700" alt="Screen Shot 2022-06-05 at 5 22 24 PM" src="https://user-images.githubusercontent.com/82056699/172073115-619c4de2-daf6-4b54-bbba-78499805d277.png">
 
 
 
